@@ -114,6 +114,8 @@ uv run ruff format .
 | `62d9f14` | Initial commit — base files added |
 | `19ebfee` | Add assistant-generated draft (assistant_draft.md) |
 | `c9a993b` | Update assistant_draft.md to Draft 2 with expanded use cases and prompt reflection |
+| `d82517f` | Update README with assignment context, git steps, and commit history |
+| `28c152b` | Add manually edited final version (final_version.md) |
 
 ### Walkthrough Video
 
