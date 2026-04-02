@@ -1,6 +1,6 @@
 # Backlog Automation
 
-Reads Excel and Word documents as foundational context, then uses the Claude API to generate and publish epics, features, user stories, requirements pages, and wireframe frames across Jira, Confluence, and Figma.
+This repository documents the development of an AI-powered delivery assistant that reads business inputs (Excel and Word documents) and uses the Claude API to automatically generate and publish structured backlog artifacts across Jira, Confluence, and Figma.
 
 ## Architecture
 
@@ -93,3 +93,28 @@ uv run pytest
 uv run ruff check .
 uv run ruff format .
 ```
+
+---
+
+## Assignment Notes (HW1)
+
+### Git Steps Used
+
+1. Created a new public repository on GitHub
+2. Initialized the local project folder and connected it to the remote using `git remote add origin`
+3. Configured SSH key authentication for secure pushes
+4. Resolved a merge conflict between the local and remote README on first push
+5. Committed and pushed incrementally after each step of the assignment
+
+### Commit History
+
+| Commit | Description |
+|---|---|
+| `fe36990` | Initial commit — project scaffolding |
+| `62d9f14` | Initial commit — base files added |
+| `19ebfee` | Add assistant-generated draft (assistant_draft.md) |
+| `c9a993b` | Update assistant_draft.md to Draft 2 with expanded use cases and prompt reflection |
+
+### Walkthrough Video
+
+_Link to be added after recording._
