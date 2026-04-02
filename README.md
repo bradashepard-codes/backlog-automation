@@ -119,4 +119,4 @@ uv run ruff format .
 
 ### Walkthrough Video
 
-_Link to be added after recording._
+[Watch Walkthrough Video](https://youtu.be/QT-ot0Az0Ko)
